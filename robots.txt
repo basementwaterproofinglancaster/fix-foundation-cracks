@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basementwaterproofinglancaster.github.io/fix-foundation-cracks/sitemap.xml
